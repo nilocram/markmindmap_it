@@ -20,7 +20,7 @@ maxWidth: 600
   - Oppure, si crea un elenco puntato<br>`- Livello 3`<br>　`  - Livello 4`<br>`- Livello 3`<br>(si aggiungono 2 spazi davanti <br>per  passare ad un altro livello)
 - Clicca su 👓 per **nascondere** la<br> finestra di modifica e **vedere** <br>solo la mappa mentale
 - Clicca su 💾 per **salvare** <br>la mappa in formato **svg**
-- Clicca su 🔗 per copiare un **link**<br> di **condivisione** della mappa mentale nella clipboard
+- Clicca su 🔗 per copiare nella clipboard un **link**<br> di **condivisione** della mappa mentale 
 - Clicca sui **cerchi** all’intersezione \\ dei diversi rami per \\ **visualizzarli o nasconderli**
 
 ## Usi più \\ avanzati<!--fold-->
